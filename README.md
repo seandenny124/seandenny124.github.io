@@ -1,3 +1,3 @@
 Hello!
 This is my GitHub page!
-It's hosted at seandenny124.github.io
+This page is hosted at [seandenny124.github.io](https://seandenny124.github.io)
